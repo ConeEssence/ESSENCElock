@@ -1,4 +1,4 @@
-##SCRIPT CREATED BY CONE FOR YOURLFIERP COMMUNITY AND OTHER ESSENCE COMMUNITIES. If you want buy some more advanced script text to me on YOURLIFERP.PL DISCORD or ESSENCE DISCORD##
+##SCRIPT CREATED BY CONE FOR YOURLFIERP COMMUNITY AND OTHER ESSENCE COMMUNITIES. If you want buy KAPPA some more advanced script text to me on YOURLIFERP.PL DISCORD or ESSENCE DISCORD##
 
 local Keys = {
 	["ESC"] = 322, ["F1"] = 288, ["F2"] = 289, ["F3"] = 170, ["F5"] = 166, ["F6"] = 167, ["F7"] = 168, ["F8"] = 169, ["F9"] = 56, ["F10"] = 57,
